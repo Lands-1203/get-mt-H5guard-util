@@ -1,0 +1,9 @@
+{
+  "editor.fontLigatures": false,
+  "editor.codeActionsOnSave": {
+    //自动格式化tsx顶部import 排序和自动删除
+    "source.organizeImports": false,
+    // 每次保存的时候将代码按eslint格式进行修复,vscode es6语法检测配置
+    "source.fixAll.eslint": false
+  }
+}
