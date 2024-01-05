@@ -80,7 +80,7 @@ module.exports = {
 
 
 
-const cookie = 'ebbsid=nCPzYUtFW0-dspwErE-yHKB_SA8SNWrBr-UfWVwzVFFY5-CH--yGRzBYB7ziVYej9usAcrKDubZgvv6siv_-xA'
+const cookie = 'ebbsid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 const url = "https://eb.meituan.com/api/v1/ebooking/comments/commentsInfo?limit=10&offset=20&partnerId=4330984&platform=1&poiId=1338202795&prefetchIndex=1&replyType=0&reportStatus=&tag=&yodaReady=h5&csecplatform=4&csecversion=2.1.2&_mtsi_eb_u=64714615&_mtsi_eb_p=4330984&optimus_uuid=4330984&optimus_risk_level=71&optimus_code=10&login_type=unknown"
 const data = null
 
